@@ -24,9 +24,8 @@ Improvement can make:
 
 ### STEP 0: GET TEMPLATE OF HEROES 
 
-```
-This step you don't have to run again. I already prepare needed heroes in /heroes_test_icon folder  
-```
+> [!NOTE]
+> This step you don't have to run again. I already prepare needed heroes in /heroes_test_icon folder  
 
 install npm with this command
 ```
