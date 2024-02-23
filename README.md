@@ -12,6 +12,16 @@ I see that I don't have the training dataset to train supervised classifier. So 
 - Disadvantages: + Performance is still unacceptable (for me above 80%). 
                  + The inference is very slow ~ 1 minutes for a pairs of image. In lightGlue, the author have paramters to trade off between accuracy and latency. And I choose optimize accuracy first.  
 ```
+
+```
+Improvement can make:
+
+- Collect data and finetune model matcher of LightGlue
+
+- Try another approach like Attention classifier, ...
+
+```
+
 ### STEP 0: GET TEMPLATE OF HEROES
 
 install npm with this command
